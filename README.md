@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CPEJBTANA
-- 👀 I'm passionate about everything technology and programming related
-- 🌱 I’m currently learning REACT and TAILWIND to build my web development skills.
-- 💞️ I’m looking to collaborate on future projects with like-minded individuals.
-- 📫 You can reach me at Email: jb.tana.cpe@gmail.com and Phone: +63 949 636 3374
-
+👋 Hi, I’m @CPEJBTANA, here is my online Portfolio :))
+https://cpejbtana.github.io/Personal-Portfolio/
 <!---
 CPEJBTANA/CPEJBTANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
